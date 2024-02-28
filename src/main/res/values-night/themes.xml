@@ -2,6 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.KalkFrei" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">#1C1B1F</item>
+        <item name="android:navigationBarColor">#1C1B1F</item>
+        <item name="android:windowLightStatusBar">false</item>
     </style>
 </resources>
