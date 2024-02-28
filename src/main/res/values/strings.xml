@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KalkFrei</string>
+    <string name="buttonNR1_text">1</string>
+    <string name="buttonNR2_text">2</string>
+    <string name="buttonNR3_text">3</string>
+    <string name="buttonNR4_text">4</string>
+    <string name="buttonNR5_text">5</string>
+    <string name="buttonNR6_text">6</string>
+    <string name="buttonNR7_text">7</string>
+    <string name="buttonNR8_text">8</string>
+    <string name="buttonNR9_text">9</string>
+    <string name="buttonNR0_text">0</string>
+    <string name="buttonPlus_text">+</string>
+    <string name="buttonMinus_text">-</string>
+    <string name="buttonMult_text">*</string>
+    <string name="buttonDiv_text">/</string>
+    <string name="buttonEquals_text">=</string>
+</resources>
